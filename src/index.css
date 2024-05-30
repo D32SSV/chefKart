@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  font-family: "Open Sans";
+}
+
+button {
+    /* border-radius: 20%; */
+    border: 1px solid transparent;
+    padding: 0.5em 0;
+    font-size: 0.8em;
+    /* font-weight: 500; */
+    font-family: inherit;
+    background-color: white;
+    cursor: pointer;
+    border-color: #BDBDBD;
+    transition: border-color 0.25s;
+    color: #0c0c0c;
+  }
+  button:hover {
+    border-color: #FF941A;
+  }
