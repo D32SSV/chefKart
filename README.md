@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>To test / build run the below commands respectively :</h2>
+First install the node packages by running "npm install"
+<ol>
+      <li>For live preview : npm run dev</li>
+      <li>For a deployable build : npm run build</li>
+</ol>
 
-Currently, two official plugins are available:
+A Clone Made Using:
+<ul>
+      <li>Tailwind-CSS</li>
+      <li>axios</li>
+      <li>react-router-dom</li>
+      <li>react-icons</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the assignment made for chefkart, implementing a copy of the design shared in the assignment file.
+
